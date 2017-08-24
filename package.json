@@ -1,0 +1,14 @@
+{
+	"name": "amazon-price-crawler-eval",
+	"version": "0.0.0",
+	"main": "index.js",
+	"author": "Kennedy Rose <kennedy@kennedyrose.com>",
+	"license": "MIT",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"nightmare": "^2.10.0",
+		"random-ua": "^0.0.6"
+	}
+}
